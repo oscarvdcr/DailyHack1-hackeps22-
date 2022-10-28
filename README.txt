@@ -1,6 +1,7 @@
 Author: Òscar van de Crommert Rodoreda
 Github link: https://github.com/oscarvdcr
 Repository link: https://github.com/oscarvdcr/DailyHack1-hackeps22-
+Mirar en document de text per separat que sino no es veu be.
 
 Llavor inicial:
 Com es veurà la grid al codi.																	Com es veurà la grid al executar.
